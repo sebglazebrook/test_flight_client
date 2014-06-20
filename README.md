@@ -1,6 +1,6 @@
 # TestFlightClient
 
-TODO: Write a gem description
+Super simple ruby client for TestFlightApp's super simple developer API.
 
 ## Installation
 
