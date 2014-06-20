@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = TestFlightClient::VERSION
   spec.authors       = ["Seb Glazebrook"]
   spec.email         = ["me@sebglazebrook.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Ruby client for TestFlightApp developer API.}
+  spec.description   = %q{Super simple ruby client for TestFlightApp's super simple developer API.}
+  spec.homepage      = "https://github.com/sebglazebrook/test_flight_client"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
