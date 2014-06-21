@@ -18,7 +18,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    require 'test_flight_client'
+
+    TestFlightClient.build(
+        api_token: 'your api token',
+        team_token: 'your team token',
+        file: 'file path or file object',
+        notes: 'whatever notes you want to add'
+    )
 
 ## Contributing
 
