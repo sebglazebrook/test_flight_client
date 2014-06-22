@@ -26,6 +26,10 @@ Or install it yourself as:
         file: 'file path or file object',
         notes: 'whatever notes you want to add'
     )
+    
+    # if you are using bundler then any parameters found in file
+    # config/test_flight.yml will be used but overridden by what
+    # is sent through manually to #build as parameter
 
 ## Contributing
 
